@@ -1,5 +1,9 @@
 Creating a new branch is quick.
 
+<<<<<<< HEAD
 
 
 湿哒哒所多所多所多多多多多多多多多多
+=======
+飒飒多大所多撒大所多
+>>>>>>> dev
